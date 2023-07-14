@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+h1,h2,h3{
+  text-decoration: underline dashed;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+table,tr,th,td{
+  border: 2px solid;
+}
+td{
+  border:2px solid rgb(0, 128, 32);
+}
+tr{
+  border: 2px solid yellow;
+}
+th{
+  border: 2px solid rgb(236, 12, 50);
+}
+ #t1{
+  border: 2px solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: red;
+  border-collapse: collapse;
+  font-size: 25px;
+  background-color: rgb(241, 233, 233);
+  box-shadow: 5px 5px 5px red;
+}
+#t2 {
+  border: 2px solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: rgb(93, 91, 201);
+  font-size: 30px;
+  background-color: blueviolet;
+}
+#t3 {
+  border: 2px solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: rgb(0, 255, 157);
+  border-collapse: collapse;
+  font-size: 30px;
+  background-color:aquamarine;
+}
+td:hover{
+  color: red;
+  background-color: cornsilk;
+}
+th:hover{
+  color: rgb(192, 137, 137);
+  background-color: cornsilk;
+}
+.abc{
+  color: rgb(52, 86, 87);
+  text-decoration: underline;
+}
+.k{
+  background-color: darkgray;
+  font-size: 30px;
+  font-family: monospace;
+}
+#o{
+  color: white;
+  background-color: black;
+}
+#d{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
